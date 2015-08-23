@@ -1,73 +1,73 @@
 This dataset (tidy_data.txt) contains the summarized mean values of each variable from 
 
-The following variables are
+The following variables are included in the file:
 
-subjectID
-activityID
-activityLabel
-tBodyAcc_mean___X
-tBodyAcc_mean___Y
-tBodyAcc_mean___Z
-tBodyAcc_std___X
-tBodyAcc_std___Y
-tBodyAcc_std___Z
-tGravityAcc_mean___X
-tGravityAcc_mean___Y
-tGravityAcc_mean___Z
-tGravityAcc_std___X
-tGravityAcc_std___Y
-tGravityAcc_std___Z
-tBodyAccJerk_mean___X
-tBodyAccJerk_mean___Y
-tBodyAccJerk_mean___Z
-tBodyAccJerk_std___X
-tBodyAccJerk_std___Y
-tBodyAccJerk_std___Z
-tBodyGyro_mean___X
-tBodyGyro_mean___Y
-tBodyGyro_mean___Z
-tBodyGyro_std___X
-tBodyGyro_std___Y
-tBodyGyro_std___Z
-tBodyGyroJerk_mean___X
-tBodyGyroJerk_mean___Y
-tBodyGyroJerk_mean___Z
-tBodyGyroJerk_std___X
-tBodyGyroJerk_std___Y
-tBodyGyroJerk_std___Z
-tBodyAccMag_mean
-tBodyAccMag_std
-tGravityAccMag_mean
-tGravityAccMag_std
-tBodyAccJerkMag_mean
-tBodyAccJerkMag_std
-tBodyGyroMag_mean
-tBodyGyroMag_std
-tBodyGyroJerkMag_mean
-tBodyGyroJerkMag_std
-fBodyAcc_mean___X
-fBodyAcc_mean___Y
-fBodyAcc_mean___Z
-fBodyAcc_std___X
-fBodyAcc_std___Y
-fBodyAcc_std___Z
-fBodyAccJerk_mean___X
-fBodyAccJerk_mean___Y
-fBodyAccJerk_mean___Z
-fBodyAccJerk_std___X
-fBodyAccJerk_std___Y
-fBodyAccJerk_std___Z
-fBodyGyro_mean___X
-fBodyGyro_mean___Y
-fBodyGyro_mean___Z
-fBodyGyro_std___X
-fBodyGyro_std___Y
-fBodyGyro_std___Z
-fBodyAccMag_mean
-fBodyAccMag_std
-fBodyBodyAccJerkMag_mean
-fBodyBodyAccJerkMag_std
-fBodyBodyGyroMag_mean
-fBodyBodyGyroMag_std
-fBodyBodyGyroJerkMag_mean
-fBodyBodyGyroJerkMag_std
+subjectID - ID number of the subject (integer)
+activityID - ID number of the activity being performed (integer)
+activityLabel - Descriptive label of the activity being performed (character)
+tBodyAcc_mean___X - mean value of the variable for the subject-activity pair in this record (numeric)
+tBodyAcc_mean___Y - mean value of the variable for the subject-activity pair in this record (numeric)
+tBodyAcc_mean___Z - mean value of the variable for the subject-activity pair in this record (numeric)
+tBodyAcc_std___X - mean value of the variable for the subject-activity pair in this record (numeric)
+tBodyAcc_std___Y - mean value of the variable for the subject-activity pair in this record (numeric)
+tBodyAcc_std___Z - mean value of the variable for the subject-activity pair in this record (numeric)
+tGravityAcc_mean___X - mean value of the variable for the subject-activity pair in this record (numeric)
+tGravityAcc_mean___Y - mean value of the variable for the subject-activity pair in this record (numeric)
+tGravityAcc_mean___Z - mean value of the variable for the subject-activity pair in this record (numeric)
+tGravityAcc_std___X - mean value of the variable for the subject-activity pair in this record (numeric)
+tGravityAcc_std___Y - mean value of the variable for the subject-activity pair in this record (numeric)
+tGravityAcc_std___Z - mean value of the variable for the subject-activity pair in this record (numeric)
+tBodyAccJerk_mean___X - mean value of the variable for the subject-activity pair in this record (numeric)
+tBodyAccJerk_mean___Y - mean value of the variable for the subject-activity pair in this record (numeric)
+tBodyAccJerk_mean___Z - mean value of the variable for the subject-activity pair in this record (numeric)
+tBodyAccJerk_std___X - mean value of the variable for the subject-activity pair in this record (numeric)
+tBodyAccJerk_std___Y - mean value of the variable for the subject-activity pair in this record (numeric)
+tBodyAccJerk_std___Z - mean value of the variable for the subject-activity pair in this record (numeric)
+tBodyGyro_mean___X - mean value of the variable for the subject-activity pair in this record (numeric)
+tBodyGyro_mean___Y - mean value of the variable for the subject-activity pair in this record (numeric)
+tBodyGyro_mean___Z - mean value of the variable for the subject-activity pair in this record (numeric)
+tBodyGyro_std___X - mean value of the variable for the subject-activity pair in this record (numeric)
+tBodyGyro_std___Y - mean value of the variable for the subject-activity pair in this record (numeric)
+tBodyGyro_std___Z - mean value of the variable for the subject-activity pair in this record (numeric)
+tBodyGyroJerk_mean___X - mean value of the variable for the subject-activity pair in this record (numeric)
+tBodyGyroJerk_mean___Y - mean value of the variable for the subject-activity pair in this record (numeric)
+tBodyGyroJerk_mean___Z - mean value of the variable for the subject-activity pair in this record (numeric)
+tBodyGyroJerk_std___X - mean value of the variable for the subject-activity pair in this record (numeric)
+tBodyGyroJerk_std___Y - mean value of the variable for the subject-activity pair in this record (numeric)
+tBodyGyroJerk_std___Z - mean value of the variable for the subject-activity pair in this record (numeric)
+tBodyAccMag_mean - mean value of the variable for the subject-activity pair in this record (numeric)
+tBodyAccMag_std - mean value of the variable for the subject-activity pair in this record (numeric)
+tGravityAccMag_mean - mean value of the variable for the subject-activity pair in this record (numeric)
+tGravityAccMag_std - mean value of the variable for the subject-activity pair in this record (numeric)
+tBodyAccJerkMag_mean - mean value of the variable for the subject-activity pair in this record (numeric)
+tBodyAccJerkMag_std - mean value of the variable for the subject-activity pair in this record (numeric)
+tBodyGyroMag_mean - mean value of the variable for the subject-activity pair in this record (numeric)
+tBodyGyroMag_std - mean value of the variable for the subject-activity pair in this record (numeric)
+tBodyGyroJerkMag_mean - mean value of the variable for the subject-activity pair in this record (numeric)
+tBodyGyroJerkMag_std - mean value of the variable for the subject-activity pair in this record (numeric)
+fBodyAcc_mean___X - mean value of the variable for the subject-activity pair in this record (numeric)
+fBodyAcc_mean___Y - mean value of the variable for the subject-activity pair in this record (numeric)
+fBodyAcc_mean___Z - mean value of the variable for the subject-activity pair in this record (numeric)
+fBodyAcc_std___X - mean value of the variable for the subject-activity pair in this record (numeric)
+fBodyAcc_std___Y - mean value of the variable for the subject-activity pair in this record (numeric)
+fBodyAcc_std___Z - mean value of the variable for the subject-activity pair in this record (numeric)
+fBodyAccJerk_mean___X - mean value of the variable for the subject-activity pair in this record (numeric)
+fBodyAccJerk_mean___Y - mean value of the variable for the subject-activity pair in this record (numeric)
+fBodyAccJerk_mean___Z - mean value of the variable for the subject-activity pair in this record (numeric)
+fBodyAccJerk_std___X - mean value of the variable for the subject-activity pair in this record (numeric)
+fBodyAccJerk_std___Y - mean value of the variable for the subject-activity pair in this record (numeric)
+fBodyAccJerk_std___Z - mean value of the variable for the subject-activity pair in this record (numeric)
+fBodyGyro_mean___X - mean value of the variable for the subject-activity pair in this record (numeric)
+fBodyGyro_mean___Y - mean value of the variable for the subject-activity pair in this record (numeric)
+fBodyGyro_mean___Z - mean value of the variable for the subject-activity pair in this record (numeric)
+fBodyGyro_std___X - mean value of the variable for the subject-activity pair in this record (numeric)
+fBodyGyro_std___Y - mean value of the variable for the subject-activity pair in this record (numeric)
+fBodyGyro_std___Z - mean value of the variable for the subject-activity pair in this record (numeric)
+fBodyAccMag_mean - mean value of the variable for the subject-activity pair in this record (numeric)
+fBodyAccMag_std - mean value of the variable for the subject-activity pair in this record (numeric)
+fBodyBodyAccJerkMag_mean - mean value of the variable for the subject-activity pair in this record (numeric)
+fBodyBodyAccJerkMag_std - mean value of the variable for the subject-activity pair in this record (numeric)
+fBodyBodyGyroMag_mean - mean value of the variable for the subject-activity pair in this record (numeric)
+fBodyBodyGyroMag_std - mean value of the variable for the subject-activity pair in this record (numeric)
+fBodyBodyGyroJerkMag_mean - mean value of the variable for the subject-activity pair in this record (numeric)
+fBodyBodyGyroJerkMag_std - mean value of the variable for the subject-activity pair in this record (numeric)
