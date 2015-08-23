@@ -1,4 +1,5 @@
-This dataset (tidy_data.txt) contains the summarized mean values of each variable from 
+This dataset (tidy_data.txt) contains the summarized mean values of each variable from the activity tracking dataset.
+It is formatted in a wide format, with the id variables (subjectID, activityID, and activityLabel) representing a unique observation of a subject performing an activity, and the rest of the columns representing observed variables on that observation.
 
 The following variables are included in the file:
 
